@@ -7,4 +7,4 @@ pluginManagement {
 }
 
 rootProject.name = "daynight"
-include ':daynight'
+include(":daynight")
