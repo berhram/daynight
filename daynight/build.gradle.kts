@@ -14,6 +14,7 @@ android {
     
     namespace = "com.velvet.darknight"
     compileSdk = 33
+    version = "1.0"
 
     defaultConfig {
         
